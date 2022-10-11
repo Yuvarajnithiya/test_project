@@ -51,7 +51,7 @@
     <leftJoint>Rev2</leftJoint>
 
     <!-- Name of right joint, defaults to `right_joint` -->
-    <rightJoint>Rev1t</rightJoint>
+    <rightJoint>Rev1</rightJoint>
 
     <!-- The distance from the center of one wheel to the other, in meters, defaults to 0.34 m -->
     <wheelSeparation>0.5380</wheelSeparation>
